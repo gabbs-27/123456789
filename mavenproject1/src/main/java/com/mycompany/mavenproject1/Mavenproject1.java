@@ -12,5 +12,9 @@ public class Mavenproject1 {
 
     public static void main(String[] args) {
         System.out.println("Hello Wo34567852iorld!");
+
+        System.out.println("Hello hola mi amor!");
+                System.out.println("soy ingeniero");
+                                System.out.println("soy hermosa");
     }
 }
